@@ -4,3 +4,9 @@
 
 - Clase 1️⃣: repaso de curso de ingreso y paradigmas de la programación.
 - Clase 2️⃣: bucles FOR
+- Clase :three:: Funciones
+
+## Aclaración
+
+Los archivos subidos el mismo día están sin comentar, ni controlar. Pueden arrastrar ejemplos de la clase acerca de lo que no se debe hacer.
+Utilizar criteriosamente.
