@@ -1,8 +1,11 @@
+# Resolución del ejercicio 6a de la primera guía
+
 lista_edad = [26, 45, 33, 67, 53, 59, 19, 37, 41, 32]
 lista_nombres = ['Juan', 'Matias', 'Carla', 'Susana', 
                 'Olivia', 'Carlos', 'Daniel', 'Jimena', 
                 'Mariela', 'Ignacio']
 
+# utilizo bandera para inicializar mínimo y máximo
 bandera = True
 
 for index in range(len(lista_edad)):

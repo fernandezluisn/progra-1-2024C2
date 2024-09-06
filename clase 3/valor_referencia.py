@@ -1,9 +1,12 @@
+# ¿Qué sucede con la referencia de una variable dentro de una función?
 def restar(numero_a: int, numero_b: int) -> int:
+    
     '''
     La función realiza una resta
     recibe enteros
-    devuelve un entero
+    devuelve un entero    
     '''
+
     print(id(numero_a))
     #Variables local: numero_b
     return numero_a - numero_b

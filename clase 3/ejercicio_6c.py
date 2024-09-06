@@ -1,3 +1,5 @@
+# Resolución del ejercicio 6c de la primera guía
+
 lista_edad = [26, 45, 33, 67, 53, 59, 19, 37, 41, 32]
 
 contador = 0
