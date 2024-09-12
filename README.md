@@ -5,7 +5,9 @@
 - Clase 1️⃣: repaso de curso de ingreso y paradigmas de la programación.
 - Clase 2️⃣: bucles FOR
 - Clase :three:: Funciones
-- Clase 4️⃣: Mídulos y paquetes
+- Clase 4️⃣: Módulos y paquetes
+- Clase :five:: Cohesión y acoplamiento.
+- Clase :six:: Recursividad.
 
 ## Aclaración
 
