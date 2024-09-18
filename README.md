@@ -8,6 +8,8 @@
 - Clase 4️⃣: Módulos y paquetes
 - Clase :five:: Cohesión y acoplamiento.
 - Clase :six:: Recursividad.
+- Clase :seven:: Listas.
+
 
 ## Aclaración
 
