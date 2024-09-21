@@ -9,6 +9,8 @@
 - Clase :five:: Cohesión y acoplamiento.
 - Clase :six:: Recursividad.
 - Clase :seven:: Listas.
+- Clase :eight:: Algoritmos de búsqueda.
+
 
 
 ## Aclaración
