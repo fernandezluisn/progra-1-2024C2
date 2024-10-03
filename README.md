@@ -11,6 +11,8 @@
 - Clase :seven:: Listas.
 - Clase :eight:: Algoritmos de búsqueda.
 - Clase :nine:: Matrices.
+- Clase :eleven:: Algoritmos de ordenamiento.
+
 
 
 
