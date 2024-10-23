@@ -12,6 +12,8 @@
 - Clase :eight:: Algoritmos de búsqueda.
 - Clase :nine:: Matrices.
 - Clase :one::one:: Algoritmos de ordenamiento.
+- Clase :one::three:: Strings desde una perspectiva algorítmica.
+- Clase :one::six:: Funciones predeterminadas de python para strings.
 
 
 
