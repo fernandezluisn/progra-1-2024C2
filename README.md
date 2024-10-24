@@ -13,6 +13,7 @@
 - Clase :nine:: Matrices.
 - Clase :one::one:: Algoritmos de ordenamiento.
 - Clase :one::three:: Strings desde una perspectiva algorítmica.
+- Clase :one::five:: POO y métodos de listas.
 - Clase :one::six:: Funciones predeterminadas de python para strings.
 
 
