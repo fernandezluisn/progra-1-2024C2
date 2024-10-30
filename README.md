@@ -15,6 +15,7 @@
 - Clase :one::three:: Strings desde una perspectiva algorítmica.
 - Clase :one::five:: POO y métodos de listas.
 - Clase :one::six:: Funciones predeterminadas de python para strings.
+- Clase :one::seven:: Listas y datos compuestos (sets, tuplas y diccionarios).
 
 
 
