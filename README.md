@@ -16,6 +16,8 @@
 - Clase :one::five:: POO y métodos de listas.
 - Clase :one::six:: Funciones predeterminadas de python para strings.
 - Clase :one::seven:: Listas y datos compuestos (sets, tuplas y diccionarios).
+- Clase :one::nine:: Manipulación de archivos y paradigma funcional.
+
 
 
 
