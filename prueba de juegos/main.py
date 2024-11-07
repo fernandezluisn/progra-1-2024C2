@@ -26,7 +26,7 @@ while jugar == True:
             encontrado = False
             i = 0
             
-            while (encontrado == False) and i <= len(lista_usuarios):
+            while (encontrado == False) and i < len(lista_usuarios):
                 
                 if lista_usuarios[i]["Nombre"] == nom:
                     maxima_puntuacion = lista_usuarios[i]["Mejor marca"]
